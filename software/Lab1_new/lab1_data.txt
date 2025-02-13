@@ -1,0 +1,39 @@
+nios2-terminal: connected to hardware target using JTAG UART on cable
+nios2-terminal: "USB-Blaster [USB-0]", device 1, instance 0
+nios2-terminal: (Use the IDE stop button or Ctrl-C to terminate)
+
+Interrupt method selected. 
+Period, Pulse_Width, BG_Tasks Run, Latency, Missed, Multiple 
+
+Please, press PB0 to continue.
+2, 1, 0, 4, 48848, 0
+4, 2, 0, 6, 32565, 9089
+6, 3, 0, 27, 57192, 1
+8, 4, 0, 38, 64170, 0
+10, 5, 0, 29, 33213, 0
+12, 6, 0, 38, 4646, 0
+14, 7, 0, 29, 54778, 0
+16, 8, 0, 23, 41461, 0
+18, 9, 0, 31, 25375, 0
+20, 10, 0, 24, 16296, 0
+22, 11, 0, 18, 10657, 0
+24, 12, 0, 46, 5781, 0
+26, 13, 0, 35, 64222, 0
+28, 14, 0, 35, 59528, 0
+30, 15, 0, 39, 56968, 0
+32, 16, 0, 36, 53475, 0
+34, 17, 0, 47, 49385, 0
+36, 18, 0, 25, 46006, 0
+38, 19, 0, 45, 42859, 0
+40, 20, 0, 41, 40481, 0
+42, 21, 0, 42, 36402, 0
+44, 22, 0, 38, 37440, 0
+46, 23, 0, 63, 34606, 0
+48, 24, 0, 38, 33490, 0
+Interrupt method selected. 
+Period, Pulse_Width, BG_Tasks Run, Latency, Missed, Multiple 
+
+Please, press PB0 to continue.
+
+
+nios2-terminal: exiting due to ^C on host
